@@ -19,6 +19,3 @@ resized = cv2.resize(img,(int(img.shape[1]/4),int(img.shape[0]/3)))
 cv2.imshow("Face Detected",resized)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
