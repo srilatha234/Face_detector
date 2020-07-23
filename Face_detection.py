@@ -1,7 +1,5 @@
 import cv2
 
-###########
-
 Face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 
